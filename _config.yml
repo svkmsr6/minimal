@@ -1,6 +1,21 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Souvik Misra </p>
+logo: /assets/img/my_prof.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/Souvik_Profile.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/souvik-misra-0a281929/">LinkedIn</a> |
+  <a href="https://github.com/svkmsr6">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Worked with TCS in CPG at Apple PS for 2.3 years.
+  Worked with Dassault Systemes in Supply Chain for 2.2 years.
+  Worked with Bridgei2i Analytics Solution in Finance and insurance for 1.75 years.
+  Working in Maersk GSC in Logistics Domain for 3+ years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
