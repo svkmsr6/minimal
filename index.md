@@ -8,7 +8,7 @@ First time, working with NLP. This is a simple classification problem which dete
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/svkmsr6/sample-nlp-app)
 
-<center><img src="images/sentiment.jpg"/></center>
+<center><img src="assets/img/sentiment.jpg"/></center>
 
 ---
 ### Tradebots Financial Portfolio Evaluator
@@ -17,5 +17,5 @@ First time, working with NLP. This is a simple classification problem which dete
 
 This is a trading script developed in Python, Yahoo Finance and other libraries where by passing one or more stock tickers in the Indian stock market and weightages, one can backtest and figure out a fair amount of profitability on them
 
-<center><img src="images/tradebot.jpg"/></center>
+<center><img src="assets/img/tradebot.jpg"/></center>
 
