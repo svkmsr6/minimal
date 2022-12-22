@@ -8,7 +8,7 @@ First time, working with NLP. This is a simple classification problem which dete
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/svkmsr6/sample-nlp-app)
 
-<center><img src="assets/img/sentiment.jpg"/></center>
+<center><img src="assets/img/sentiment.png"/></center>
 
 ---
 ### Tradebots Financial Portfolio Evaluator
