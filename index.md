@@ -2,6 +2,16 @@
 ---
 ## Machine learning
 
+### Lending Club Case Study
+
+Case Study on potential loan defaulters and EDA on figuring out the drivers behind credit default 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanmayarsahu/ml-c47-lending-club-case-study)
+
+<center><img src="assets/img/loan.png"/></center>
+
+---
+
 ### Stock Sentiment Detector
 
 First time, working with NLP. This is a simple classification problem which determines based on the text, whether it reflects 'BEARISH' or 'BULLISH' sentiment in the market
