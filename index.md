@@ -2,6 +2,15 @@
 ---
 ## Machine learning
 
+### Boom Bikes Demand Modelling
+
+Linear regression assignment on modelling the factors that affect the daily demand for bikes for a US based bike rental company called Boom Bikes
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/svkmsr6/boombikes-linear-regression-assignment)
+
+<center><img src="assets/img/demfor.png"/></center>
+
+
 ### Lending Club Case Study
 
 Case Study on potential loan defaulters and EDA on figuring out the drivers behind credit default 
