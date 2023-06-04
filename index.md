@@ -2,8 +2,6 @@
 ---
 ## Machine learning
 
-https://github.com/svkmsr6/ml-c47-cnn-melanoma-assignment
-
 ### Melanoma Detection
 
 Deep Learning assignment on building a model to detect Melanoma from Skin lesions
