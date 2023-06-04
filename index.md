@@ -10,7 +10,7 @@ Deep Learning assignment on building a model to detect Melanoma from Skin lesion
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/svkmsr6/ml-c47-cnn-melanoma-assignment)
 
-<center><img src="assets/img/demfor.png"/></center>
+<center><img src="assets/img/melanoma.png"/></center>
 
 
 ### Boom Bikes Demand Modelling
