@@ -2,6 +2,17 @@
 ---
 ## Machine learning
 
+https://github.com/svkmsr6/ml-c47-cnn-melanoma-assignment
+
+### Melanoma Detection
+
+Deep Learning assignment on building a model to detect Melanoma from Skin lesions
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/svkmsr6/ml-c47-cnn-melanoma-assignment)
+
+<center><img src="assets/img/demfor.png"/></center>
+
+
 ### Boom Bikes Demand Modelling
 
 Linear regression assignment on modelling the factors that affect the daily demand for bikes for a US based bike rental company called Boom Bikes
