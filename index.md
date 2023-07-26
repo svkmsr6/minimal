@@ -2,6 +2,14 @@
 ---
 ## Machine learning
 
+### Gesture Recognition
+
+Deep Learning assignment on building a model to detect various gestures on video
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/svkmsr6/ml-c47-gesture-recognition)
+
+<center><img src="assets/img/gesture.png"/></center>
+
 ### Melanoma Detection
 
 Deep Learning assignment on building a model to detect Melanoma from Skin lesions
